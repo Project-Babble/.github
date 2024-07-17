@@ -1,12 +1,7 @@
-## Hi there 👋
+## Welcome to the Project Babble Github page!
 
-<!--
+Project Babble is an open-source project aiming to bring robust lower-face expression tracking to VR headsets, agnostic of platform or hardware.
 
-**Here are some ideas to get you started:**
+On our Github we have links to the [Project Babble](https://github.com/Project-Babble/ProjectBabble) desktop application, [documentation](https://www.babble.diy/) for users and developers, links to [3D prints](https://github.com/Project-Babble/BabbleHardware) for your type of headset, and links to our socials.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Get started here! https://www.babble.diy/
